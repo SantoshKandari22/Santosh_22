@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santoshkandari22" alt="santoshkandari22" /></a> </p>
 
-- 🌱 I’m currently learning **AngularJS, React,**
+- 🌱 I’m currently in a**learning phase**
 
 - 💬 Ask me about **HTML5, CSS, Js**
 
