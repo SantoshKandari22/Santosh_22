@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently in a **learning phase**
 
-- 💬 Ask me about **HTML5, CSS, Js**
+- 💬 Ask me about **HTML5, CSS3, JS**
 
 - 📫 How to reach me **kandarisantosh3@gmail.com**
 
-- ⚡ Fun fact **.......**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
