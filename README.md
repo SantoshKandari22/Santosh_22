@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently in a **learning phase**
 
-- 💬 Ask me about **HTML5, CSS3, JS ReactJs**
+- 💬 Ask me about **HTML5, CSS3, JS, ReactJs**
 
 - 📫 How to reach me **kandarisantosh3@gmail.com**
 
